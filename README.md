@@ -1,2 +1,2 @@
-# Assembly mini project
+# Assembly mini projects
 - old code from uni
